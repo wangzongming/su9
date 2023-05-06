@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html,
+body{
+    height: 100%;
+}
+
+/** 黑色 #051617 **/ 
+/** 蓝色 #4dacb2 **/ 
+/** 暗蓝色 #002b2e **/ 
+/** 亮蓝色 #4bafc3 **/ 
+
+
+#app{
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+  height: 100%;
+  background-color: #051617;
+  overflow: hidden;
+}
+#renderCanvas{
+    width: 100%;
+    height: 100%;
+}

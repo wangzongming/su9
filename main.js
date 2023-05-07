@@ -21,7 +21,7 @@ var ddosPaths = [],ddosPathsAniOver = {};
 // const earthImgUrl = "https://wangzongming.top/eart2.jpg";
 const earthImgUrl = "http://192.168.43.163:8000/eart.jpg";
 // 粒子皮肤
-// const earthImgUrl = "https://wangzongming.top/flare.png";
+// const liziImgUrl = "https://wangzongming.top/flare.png";
 const liziImgUrl = "http://192.168.43.163:8000/flare.png";
 
 const colors = {
